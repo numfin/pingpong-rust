@@ -1,0 +1,7 @@
+[package]
+authors = ["Aleksandr Paramonov <aleksandr.paramonov@vrbank.ru>"]
+edition = "2018"
+name = "pingpong"
+version = "0.1.0"
+[dependencies]
+coffee = { version = "0.3.2", features = ["opengl"] }
